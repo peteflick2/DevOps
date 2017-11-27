@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="d1f868c9dbe103007c7c771c8c96194d" sys_domain="global" table="x_10565_kpmgdevops_kpmg_enhancement" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95f8acc9dbe103007c7c771c8c961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_10565_kpmgdevops_kpmg_enhancement" name="x_10565_kpmgdevops_kpmg_enhancement" sys_domain="global" view="7c754dc67f0000012e3202df788dc5de">d1f868c9dbe103007c7c771c8c96194d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_10565_kpmgdevops_kpmg_enhancement" sys_domain="global" view="7c754dc67f0000012e3202df788dc5de">15f868c9dbe103007c7c771c8c96194f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-29 21:20:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9df8acc9dbe103007c7c771c8c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_10565_kpmgdevops_kpmg_enhancement" name="x_10565_kpmgdevops_kpmg_enhancement" sys_domain="global" view="7c754dc67f0000012e3202df788dc5de">d1f868c9dbe103007c7c771c8c96194d</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_kpmg_enhancement" sys_domain="global" view="7c754dc67f0000012e3202df788dc5de">ddf8acc9dbe103007c7c771c8c961991</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-29 21:20:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1f868c9dbe103007c7c771c8c96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_10565_kpmgdevops_kpmg_enhancement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d1f868c9dbe103007c7c771c8c96194d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-29 21:20:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="SDLC" name="sdlc">7c754dc67f0000012e3202df788dc5de</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

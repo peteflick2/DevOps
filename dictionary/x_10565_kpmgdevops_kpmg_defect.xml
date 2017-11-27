@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="rm_defect" label="KPMG Defect" max_length="40" name="x_10565_kpmgdevops_kpmg_defect" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Defect cause" max_length="40" name="u_defect_cause" type="string">
+            <choice>
+                <element label="Inadequate communication" sequence="0" value="Inadequate communication"/>
+                <element label="Inadequate documentation" sequence="1" value="Inadequate documentation"/>
+                <element label="Inadequate environment or infrastructure" sequence="2" value="Inadequate environment or infrastructure"/>
+                <element label="Inadequate implementation" sequence="3" value="Inadequate implementation"/>
+                <element label="Inadequate planning" sequence="4" value="Inadequate planning"/>
+                <element label="Inadequate skill" sequence="5" value="Inadequate skill"/>
+                <element label="Inadequate test plan or script" sequence="6" value="Inadequate test plan or script"/>
+                <element label="Inadequate training" sequence="7" value="Inadequate training"/>
+                <element label="Incomplete requirement" sequence="8" value="Incomplete requirement"/>
+                <element label="Incorrect requirement" sequence="9" value="Incorrect requirement"/>
+                <element label="Lack of business knowledge" sequence="10" value="Lack of business knowledge"/>
+                <element label="Method or process employed" sequence="11" value="Method or process employed"/>
+                <element label="No fault found" sequence="12" value="No fault found"/>
+                <element label="Standards not followed" sequence="13" value="Standards not followed"/>
+                <element label="Tester misunderstanding" sequence="14" value="Tester misunderstanding"/>
+                <element label="Upgrade, release or plugin issue" sequence="15" value="Upgrade, release or plugin issue"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Defect log number" max_length="40" name="u_defect_log_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Defect type" max_length="40" name="u_defect_type" type="string">
+            <choice>
+                <element label="Data" sequence="0" value="Data"/>
+                <element label="Documentation" sequence="1" value="Documentation"/>
+                <element label="Integration" sequence="2" value="Integration"/>
+                <element label="Permissions" sequence="3" value="Permissions"/>
+                <element label="Functionality" sequence="4" value="Functionality"/>
+                <element label="Syntactic error" sequence="5" value="Syntactic error"/>
+                <element label="Error handling" sequence="6" value="Error handling"/>
+                <element label="Calculation" sequence="7" value="Calculation"/>
+            </choice>
+        </element>
+        <element label="Related story" max_length="32" name="u_related_story" reference="x_10565_kpmgdevops_kpmg_story" type="reference"/>
+        <element label="Related test instance" max_length="32" name="u_related_test_instance" reference="tm_test_instance" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Test type" max_length="40" name="u_test_type" type="string">
+            <choice>
+                <element label="Integration testing" sequence="0" value="Integration testing"/>
+                <element label="Peer code review" sequence="1" value="Peer code review"/>
+                <element label="Peer documentation review" sequence="2" value="Peer documentation review"/>
+                <element label="Peer test case review" sequence="3" value="Peer test case review"/>
+                <element label="Regression testing" sequence="4" value="Regression testing"/>
+                <element label="System testing" sequence="5" value="System testing"/>
+                <element label="Unit testing" sequence="6" value="Unit testing"/>
+                <element label="UAT testing" sequence="7" value="UAT testing"/>
+            </choice>
+        </element>
+    </element>
+</database>

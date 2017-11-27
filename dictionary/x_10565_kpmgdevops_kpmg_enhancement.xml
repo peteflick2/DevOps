@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="rm_enhancement" label="KPMG Enhancement" max_length="40" name="x_10565_kpmgdevops_kpmg_enhancement" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Change request number" max_length="40" name="u_change_request_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer enhancement number" max_length="40" name="u_customer_enhancement_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Impact analysis" max_length="1000" name="u_impact_analysis" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Status meeting" label="Source" max_length="40" name="u_source" type="string">
+            <choice>
+                <element label="Design spec" sequence="0" value="Design spec"/>
+                <element label="Data migration preparation" sequence="1" value="Data migration preparation"/>
+                <element label="Defect log" sequence="2" value="Defect log"/>
+                <element label="Defect review meeting" sequence="3" value="Defect review meeting"/>
+                <element label="Functional requirements spec" sequence="4" value="Functional requirements spec"/>
+                <element label="Prototype review" sequence="5" value="Prototype review"/>
+                <element label="Sprint planning meeting" sequence="6" value="Sprint planning meeting"/>
+                <element label="Status meeting" sequence="7" value="Status meeting"/>
+                <element label="Verification" sequence="8" value="Verification"/>
+                <element label="Training" sequence="9" value="Training"/>
+                <element label="Workshop" sequence="10" value="Workshop"/>
+            </choice>
+        </element>
+    </element>
+</database>

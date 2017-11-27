@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_end_date</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-15 17:05:00</sys_created_on>
+        <sys_id>70113dc8dbe243007c7c771c8c961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_end_date</sys_name>
+        <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+        <sys_update_name>sys_ui_policy_action_70113dc8dbe243007c7c771c8c961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-15 17:05:00</sys_updated_on>
+        <table>x_10565_kpmgdevops_artifact_schedule</table>
+        <ui_policy display_value="Show fields if End Recurrence is End By Date">0ee0b9c8dbe243007c7c771c8c9619f8</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

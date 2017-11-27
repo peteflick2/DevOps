@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="KPMG Release Task" max_length="40" name="x_10565_kpmgdevops_kpmg_release_task" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Assigned to" max_length="32" name="u_assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="40" name="u_comments" type="string"/>
+        <element label="Order" max_length="40" name="u_order" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Commit update set" label="Release task type" max_length="40" name="u_release_task_type" type="string">
+            <choice>
+                <element label="Commit update set" sequence="0" value="Commit update set"/>
+                <element label="Manual step" sequence="1" value="Manual step"/>
+                <element label="Enable plugin" sequence="2" value="Enable plugin"/>
+                <element label="Import data" sequence="3" value="Import data"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Update set" max_length="100" name="u_update_set" type="string"/>
+        <index name="index">
+            <element name="u_assigned_to"/>
+        </index>
+    </element>
+</database>

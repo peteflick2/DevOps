@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Artifact Task" max_length="40" name="x_10565_kpmgdevops_artifact_task" type="collection">
+        <element label="Artifact schedule" max_length="32" name="artifact_schedule" reference="x_10565_kpmgdevops_artifact_schedule" type="reference"/>
+        <element label="Project" mandatory="true" max_length="32" name="u_project" reference="pm_project" type="reference"/>
+    </element>
+</database>

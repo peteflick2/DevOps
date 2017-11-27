@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Baseline Artifact Schedule" max_length="40" name="x_10565_kpmgdevops_baseline_artifact_schedule" type="collection">
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Ad hoc date" max_length="40" name="u_ad_hoc_date" type="glide_date_time"/>
+        <element label="Description" max_length="1000" name="u_description" type="string"/>
+        <element label="Every" max_length="40" name="u_every" type="float"/>
+        <element label="Mandatory" max_length="40" name="u_mandatory" type="boolean"/>
+        <element display="true" label="Name" mandatory="true" max_length="80" name="u_name" type="string"/>
+        <element label="Next action" max_length="40" name="u_next_action" type="glide_date_time"/>
+        <element choice="3" default="Integrated Project Management" label="Process area" max_length="40" name="u_process_area" type="choice">
+            <choice>
+                <element label="Build Release and Integration" value="Build Release and Integration"/>
+                <element label="Change Management" value="Change Management"/>
+                <element label="Configuration Management" value="Configuration Management"/>
+                <element label="Decision Analysis and Resolution" value="Decision Analysis and Resolution"/>
+                <element label="Defect Management" value="Defect Management"/>
+                <element label="Design" value="Design"/>
+                <element label="Integrated Project Management" value="Integrated Project Management"/>
+                <element label="Measurement and Analysis" value="Measurement and Analysis"/>
+                <element label="Process and Product Quality Assurance" value="Process and Product Quality Assurance"/>
+                <element label="Requirements Management" value="Requirements Management"/>
+                <element label="Risk Management" value="Risk Management"/>
+                <element label="Test Management" value="Test Management"/>
+            </choice>
+        </element>
+        <element label="Repeat" max_length="40" name="u_repeat" type="glide_duration"/>
+        <element choice="3" default="10" label="Trigger" max_length="40" name="u_repetition" type="choice">
+            <choice>
+                <element label="Duration" value="10"/>
+            </choice>
+        </element>
+        <element label="Run ad hoc" max_length="40" name="u_run_ad_hoc" type="boolean"/>
+        <element label="Due day of month" max_length="40" name="u_run_dayofmonth" type="integer"/>
+        <element label="Trigger type" max_length="40" name="u_trigger_type" type="integer"/>
+    </element>
+</database>

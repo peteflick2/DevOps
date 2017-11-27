@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_source" table="x_10565_kpmgdevops_kpmg_enhancement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Design spec</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ef4a2b1db2103007c7c771c8c961995</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:29:17</sys_updated_on>
+            <value>Design spec</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data migration preparation</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:34:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>990c644ddbe103007c7c771c8c961999</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:29:17</sys_updated_on>
+            <value>Data migration preparation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Defect log</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:34:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d0c644ddbe103007c7c771c8c96199b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:29:17</sys_updated_on>
+            <value>Defect log</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Defect review meeting</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2f4a2b1db2103007c7c771c8c961998</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:29:17</sys_updated_on>
+            <value>Defect review meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Functional requirements spec</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16f4a2b1db2103007c7c771c8c96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:18:11</sys_updated_on>
+            <value>Functional requirements spec</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prototype review</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56f4a2b1db2103007c7c771c8c96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:18:11</sys_updated_on>
+            <value>Prototype review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sprint planning meeting</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f4a2b1db2103007c7c771c8c96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:18:11</sys_updated_on>
+            <value>Sprint planning meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Status meeting</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6f4a2b1db2103007c7c771c8c9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:18:11</sys_updated_on>
+            <value>Status meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Verification</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1af4a2b1db2103007c7c771c8c9619a2</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:29:17</sys_updated_on>
+            <value>Verification</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5af4a2b1db2103007c7c771c8c9619a4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:29:17</sys_updated_on>
+            <value>Training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Workshop</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-02 14:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9af4a2b1db2103007c7c771c8c9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:18:11</sys_updated_on>
+            <value>Workshop</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_source</element>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:34:17</sys_created_on>
+            <sys_id>550c644ddbe103007c7c771c8c961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_source</sys_name>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_choice_x_10565_kpmgdevops_kpmg_enhancement_u_source</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-29 21:34:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_test_type" table="x_10565_kpmgdevops_kpmg_defect" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integration testing</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3672f74adb6903007c7c771c8c961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+            <value>Integration testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peer code review</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e72f74adb6903007c7c771c8c961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+            <value>Peer code review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peer documentation review</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7272f74adb6903007c7c771c8c96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+            <value>Peer documentation review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peer test case review</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b672f74adb6903007c7c771c8c96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+            <value>Peer test case review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Regression testing</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa72f74adb6903007c7c771c8c96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+            <value>Regression testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System testing</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3272f74adb6903007c7c771c8c961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+            <value>System testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unit testing</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7672f74adb6903007c7c771c8c961913</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:05:32</sys_updated_on>
+            <value>Unit testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_test_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UAT testing</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba72f74adb6903007c7c771c8c961915</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:05:32</sys_updated_on>
+            <value>UAT testing</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_test_type</element>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 14:35:18</sys_created_on>
+            <sys_id>f672f74adb6903007c7c771c8c961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_test_type</sys_name>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_choice_x_10565_kpmgdevops_kpmg_defect_u_test_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 14:35:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

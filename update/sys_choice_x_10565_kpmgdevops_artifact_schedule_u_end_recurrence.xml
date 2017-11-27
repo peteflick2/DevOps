@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_end_recurrence" table="x_10565_kpmgdevops_artifact_schedule" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_end_recurrence</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>End after occurrences</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_artifact_schedule</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 22:31:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e932fdb7db1e03007c7c771c8c961962</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 22:31:40</sys_updated_on>
+            <value>End after occurrences</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_end_recurrence</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>End by date</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_artifact_schedule</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 22:31:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d427db7db1e03007c7c771c8c96194e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 22:31:49</sys_updated_on>
+            <value>End by date</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_end_recurrence</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No end</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_artifact_schedule</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 22:31:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec3231f7db1e03007c7c771c8c961959</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 22:31:23</sys_updated_on>
+            <value>No end</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_end_recurrence</element>
+            <name>x_10565_kpmgdevops_artifact_schedule</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 22:31:19</sys_created_on>
+            <sys_id>113231f7db1e03007c7c771c8c961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_end_recurrence</sys_name>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_choice_x_10565_kpmgdevops_artifact_schedule_u_end_recurrence</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 22:31:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="tm_test" label="KPMG Test" max_length="40" name="x_10565_kpmgdevops_kpmg_test" type="collection">
+        <element label="Story" max_length="32" name="u_story" reference="x_10565_kpmgdevops_kpmg_story" type="reference"/>
+        <index name="index">
+            <element name="u_story"/>
+        </index>
+    </element>
+</database>

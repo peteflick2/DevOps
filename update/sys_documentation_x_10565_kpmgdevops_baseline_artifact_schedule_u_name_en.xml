@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_name" label="Name" language="en" table="x_10565_kpmgdevops_baseline_artifact_schedule">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <help/>
+            <hint/>
+            <label>Name</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_baseline_artifact_schedule</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-08 22:15:29</sys_created_on>
+            <sys_id>07057275db5643007c7c771c8c9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_documentation_x_10565_kpmgdevops_baseline_artifact_schedule_u_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-08 22:15:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

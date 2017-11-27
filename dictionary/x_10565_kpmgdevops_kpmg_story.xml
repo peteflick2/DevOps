@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="rm_story" label="KPMG Story" max_length="40" name="x_10565_kpmgdevops_kpmg_story" sizeclass="4" type="collection"/>
+</database>

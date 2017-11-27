@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tailoring Register" max_length="40" name="x_10565_kpmgdevops_tailoring_register" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" default="1" label="State" max_length="40" name="tailoring_register_state" type="choice">
+            <choice>
+                <element label="Closed" value="3"/>
+                <element label="Draft" value="1"/>
+                <element label="In progress" value="2"/>
+            </choice>
+        </element>
+        <element label="Project" mandatory="true" max_length="32" name="u_project" reference="pm_project" type="reference"/>
+        <index name="index">
+            <element name="u_project"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_10565_kpmgdevops_tailoring_register">x_10565_kpmgdevops_tailoring_register</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-08 19:56:51</sys_created_on>
+        <sys_id>d335daf1db5643007c7c771c8c9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TR</sys_name>
+        <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+        <sys_update_name>sys_number_d335daf1db5643007c7c771c8c9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-08 19:56:51</sys_updated_on>
+    </sys_number>
+</record_update>

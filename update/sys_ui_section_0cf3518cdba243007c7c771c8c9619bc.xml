@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Schedule" section_id="0cf3518cdba243007c7c771c8c9619bc" sys_domain="global" table="x_10565_kpmgdevops_artifact_schedule" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_next_due</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>b93bccfddb2243007c7c771c8c9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_repeat</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>713bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_every</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>f13bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_weekdays</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>753bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_day_of_week</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>f53bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_month</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>793bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_day_of_month</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>f93bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>7d3bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_recurrence</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>fd3bccfddb2243007c7c771c8c9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_occurrences</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>713bccfddb2243007c7c771c8c9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 20:09:11</sys_created_on>
+            <sys_id>f13bccfddb2243007c7c771c8c9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_10565_kpmgdevops_artifact_schedule" sys_domain="global" view="Default view">0cf3518cdba243007c7c771c8c9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 20:09:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Schedule</caption>
+            <header>false</header>
+            <name>x_10565_kpmgdevops_artifact_schedule</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-15 14:57:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cf3518cdba243007c7c771c8c9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Schedule</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_ui_section_0cf3518cdba243007c7c771c8c9619bc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-15 14:57:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

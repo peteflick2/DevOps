@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="work_end" label="Actual end date" language="en" table="x_10565_kpmgdevops_kpmg_enhancement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <help/>
+            <hint/>
+            <label>Actual end date</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_enhancement</name>
+            <plural>Actual end dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-29 21:34:17</sys_created_on>
+            <sys_id>610c644ddbe103007c7c771c8c9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Actual end date</sys_name>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_documentation_x_10565_kpmgdevops_kpmg_enhancement_work_end_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-29 21:34:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

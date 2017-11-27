@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_defect_cause" table="x_10565_kpmgdevops_kpmg_defect" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate communication</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2dac016dba903007c7c771c8c9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:21:47</sys_updated_on>
+            <value>Inadequate communication</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate documentation</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>badac016dba903007c7c771c8c9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:21:47</sys_updated_on>
+            <value>Inadequate documentation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate environment or infrastructure</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fedac016dba903007c7c771c8c9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:21:47</sys_updated_on>
+            <value>Inadequate environment or infrastructure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate implementation</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36dac016dba903007c7c771c8c9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:21:47</sys_updated_on>
+            <value>Inadequate implementation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate planning</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7adac016dba903007c7c771c8c9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:21:47</sys_updated_on>
+            <value>Inadequate planning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate skill</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1fb44dedb6903007c7c771c8c9619f6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Inadequate skill</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate test plan or script</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49fb44dedb6903007c7c771c8c9619f8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Inadequate test plan or script</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inadequate training</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09fb0c16dba903007c7c771c8c961937</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Inadequate training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incomplete requirement</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bedac016dba903007c7c771c8c9619e6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Incomplete requirement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incorrect requirement</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2dac016dba903007c7c771c8c9619e9</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Incorrect requirement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lack of business knowledge</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dfb0c16dba903007c7c771c8c961939</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Lack of business knowledge</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Method or process employed</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05fb0c16dba903007c7c771c8c96193c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Method or process employed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No fault found</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89fb0c16dba903007c7c771c8c96193e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>No fault found</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Standards not followed</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01fb0c16dba903007c7c771c8c961941</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Standards not followed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tester misunderstanding</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85fb0c16dba903007c7c771c8c961943</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Tester misunderstanding</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_defect_cause</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Upgrade, release or plugin issue</label>
+            <language>en</language>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dfb0c16dba903007c7c771c8c961945</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-12 21:09:27</sys_updated_on>
+            <value>Upgrade, release or plugin issue</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_defect_cause</element>
+            <name>x_10565_kpmgdevops_kpmg_defect</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-03 16:21:47</sys_created_on>
+            <sys_id>76dac016dba903007c7c771c8c9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_defect_cause</sys_name>
+            <sys_package display_value="KPMG DevOps" source="x_10565_kpmgdevops">3e0767b4db6103007c7c771c8c9619dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPMG DevOps">3e0767b4db6103007c7c771c8c9619dd</sys_scope>
+            <sys_update_name>sys_choice_x_10565_kpmgdevops_kpmg_defect_u_defect_cause</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-03 16:21:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
