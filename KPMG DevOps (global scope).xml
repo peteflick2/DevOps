@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2017-11-27 19:43:50">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>KPMG DevOps (global scope)</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>4305a849dbe103007c7c771c8c9619c3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>66884044dbb203007c7c771c8c961967</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_tm_test_sys_class_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="tm_test"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Class</column_label><comments/><create_roles/><default_value>javascript:current.getTableName();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>sys_class_name</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="">sys_class_name</internal_type><mandatory>false</mandatory><max_length>80</max_length><name>tm_test</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-10-03 21:12:09</sys_created_on><sys_id>805dcdd2db2d03007c7c771c8c961985</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Class</sys_name><sys_package/><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_tm_test_sys_class_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-03 21:12:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1667875262</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>2288c444dbb203007c7c771c8c961963</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ee414e9880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test</table>
+<target_name>Test.Class</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>8c5dcdd2f72d0300099696d7dac9068a</update_guid>
+<update_guid_history>8c5dcdd2f72d0300099696d7dac9068a:1667875262</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_override_853e09a337101000dadaa3549dbe5d15</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes>ref_contributions=''</attributes><attributes_override>true</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>short_description</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>rm_story</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2011-08-11 09:07:59</sys_created_on><sys_id>853e09a337101000dadaa3549dbe5d15</sys_id><sys_mod_count>5</sys_mod_count><sys_name>short_description</sys_name><sys_package display_value="Agile Development" source="com.snc.sdlc.scrum.pp">6bf06378db2103007c7c771c8c96194c</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_override_853e09a337101000dadaa3549dbe5d15</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-05 21:06:21</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+<payload_hash>-648591596</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>2688c444dbb203007c7c771c8c961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15eee5c51fa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>rm_story</table>
+<target_name>short_description</target_name>
+<type>Dictionary Entry Override</type>
+<update_domain>global</update_domain>
+<update_guid>662fdbb22de10300160bc764514580b5</update_guid>
+<update_guid_history>662fdbb22de10300160bc764514580b5:-648591596,e62fdbb280e1030090610b19815eb3b2:1042381023</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_5901a378db2103007c7c771c8c9619f6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Story</label><live_feed_enabled>false</live_feed_enabled><name>rm_story</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Feature" name="rm_feature">b801a378db2103007c7c771c8c96195f</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:06:36</sys_created_on><sys_id>5901a378db2103007c7c771c8c9619f6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Story</sys_name><sys_package display_value="SDLC - SCRUM" source="com.snc.sdlc.scrum">aff06378db2103007c7c771c8c96194c</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_5901a378db2103007c7c771c8c9619f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-09-29 21:09:46</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1744390715</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>2a884044dbb203007c7c771c8c961967</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ecf794d650000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>rm_story</table>
+<target_name>Story</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>1666e4892ae1030089ba1136a71086fb</update_guid>
+<update_guid_history>1666e4892ae1030089ba1136a71086fb:-1744390715,5856a089b9e103008f4ad279bbb6c42e:-1380719902,1c56a08949e1030032f157ced1323a2b:-711765854</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_8901a378db2103007c7c771c8c96197c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Enhancement</label><live_feed_enabled>false</live_feed_enabled><name>rm_enhancement</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Feature" name="rm_feature">b801a378db2103007c7c771c8c96195f</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:06:34</sys_created_on><sys_id>8901a378db2103007c7c771c8c96197c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Enhancement</sys_name><sys_package display_value="Software Development Lifecycle (SDLC)" source="com.snc.sdlc">a3f06378db2103007c7c771c8c96194d</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_8901a378db2103007c7c771c8c96197c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-09-29 21:04:18</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1391697098</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>2a88c444dbb203007c7c771c8c961961</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ecf744ca30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>rm_enhancement</table>
+<target_name>Enhancement</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>de252c4943e1030089f45afce4b1989d</update_guid>
+<update_guid_history>de252c4943e1030089f45afce4b1989d:1391697098,5a25684901e10300a247fb3df3ac8f0d:-1788270773</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_tm_test_instance_sys_ref_list</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="tm_test_instance" version="2" view="sys_ref_list"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="tm_test_instance" element="NULL" name="tm_test_instance" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">d0b9fc7edb7103007c7c771c8c9619a2</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2017-10-17 19:19:04</sys_created_on><sys_id>58b9fc7edb7103007c7c771c8c9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-17 19:19:04</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>test</element><list_id display_value="tm_test_instance" element="NULL" name="tm_test_instance" parent="NULL" relationship="NULL" sys_domain="global" view="5c962341dd2003003399d83d70be026c">d0b9fc7edb7103007c7c771c8c9619a2</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2017-10-17 19:19:04</sys_created_on><sys_id>d8b9fc7edb7103007c7c771c8c9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-17 19:19:04</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>tm_test_instance</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-10-17 19:19:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d0b9fc7edb7103007c7c771c8c9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>tm_test_instance</sys_name><sys_package display_value="Test Management" source="com.snc.test_mgmt">ee21a3b8db2103007c7c771c8c961901</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_tm_test_instance_sys_ref_list</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-17 19:19:04</sys_updated_on><sys_user/><view display_value="Reference List" name="sys_ref_list">5c962341dd2003003399d83d70be026c</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-1722820395</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>2e88c444dbb203007c7c771c8c961963</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15f2bc669370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test_instance</table>
+<target_name>Test</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>d0b9fc7e5a71030040f2bfe47217dda4</update_guid>
+<update_guid_history>d0b9fc7e5a71030040f2bfe47217dda4:-1722820395,d8b9fc7e047103007cbc589f5b05579f:-1211281716</update_guid_history>
+<update_set display_value=""/>
+<view>sys_ref_list</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_dd01a378db2103007c7c771c8c9619d8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Defect</label><live_feed_enabled>false</live_feed_enabled><name>rm_defect</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Feature" name="rm_feature">b801a378db2103007c7c771c8c96195f</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:06:35</sys_created_on><sys_id>dd01a378db2103007c7c771c8c9619d8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Defect</sys_name><sys_package display_value="Software Development Lifecycle (SDLC)" source="com.snc.sdlc">a3f06378db2103007c7c771c8c96194d</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_dd01a378db2103007c7c771c8c9619d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-02 20:23:32</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>152800397</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>6288c444dbb203007c7c771c8c961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15edec20d480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>rm_defect</table>
+<target_name>Defect</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>1298fb79fba103000798f6f2b94d1a83</update_guid>
+<update_guid_history>1298fb79fba103000798f6f2b94d1a83:152800397,9e98bf754aa1030092ac1e0228cc75e8:739281876</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_474a55eadbe143007c7c771c8c96193a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.tm_TestCaseInstanceDecorator&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;tm_TestCaseInstanceDecorator&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var tm_TestCaseInstanceDecorator = Class.create();
+
+tm_TestCaseInstanceDecorator.prototype = Object.extendsObject(tm_BaseDecorator, {
+	testInstances: function() {
+		var testInstance = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		testInstance.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		testInstance.orderBy('order');
+		testInstance.query();
+		return testInstance;
+	},
+	
+	testPlan: function() {
+		var testPlan = new GlideRecord(tm_TestManagement.TEST_PLAN);
+		testPlan.get(this.getValue(tm_TestManagement.TEST_PLAN_FK));
+		return tm_Decorator.decorate(testPlan);
+	},
+	
+	metricCategory: function() {
+		if ( JSUtil.nil(this.getValue(tm_TestManagement.ASMT_METRIC_CATEGORY)) ) {
+			return { isValid: function() { return false; } };
+		}
+		else {
+			var gr = new GlideRecord(tm_TestManagement.ASMT_METRIC_CATEGORY);
+			gr.get(this.getValue(tm_TestManagement.ASMT_METRIC_CATEGORY));
+			return tm_Decorator.decorate(gr);
+		}
+	},
+	
+	clearBlockedReason: function() {
+		this.setValue('blocked_reason', "");
+		this.update();
+	},
+	
+	
+	//Start customization
+	//Original "addTest" function
+	/*
+	addTest: function(test,testWorkflow) {
+		var testInstance = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		testInstance.test = test.getValue('test');
+		testInstance.test_description = test.getValue('test_description');
+		testInstance.order = test.getValue('order');
+		testInstance.expected_result = test.getValue('expected_result');
+		testInstance.tm_test_case_instance = this.gr.getValue('sys_id');
+		if(!this.metricCategory().isValid() &amp;&amp; !testWorkflow)
+		 testInstance.setWorkflow(false);
+		testInstance.insert();
+		return tm_Decorator.decorate(testInstance);
+	},
+	*/
+	//New "addTest" function to add the Test Instance to the appropriate table
+	addTest: function(test,testWorkflow) {
+		//check if the source Test is from the out of box "Test" table or the custom "KPMG Test" table
+		var kpmgTest = new GlideRecord('x_10565_kpmgdevops_kpmg_test');
+		if(kpmgTest.get(test.getUniqueValue())){
+			//record is on the KPMG Story table so create the Test Instance on the custom KPMG Test Instance table
+			var kpmgTestInstance = new GlideRecord('x_10565_kpmgdevops_kpmg_test_instance');
+			kpmgTestInstance.test = test.getValue('test');
+			kpmgTestInstance.test_description = test.getValue('test_description');
+			kpmgTestInstance.order = test.getValue('order');
+			kpmgTestInstance.expected_result = test.getValue('expected_result');
+			kpmgTestInstance.tm_test_case_instance = this.gr.getValue('sys_id');
+			kpmgTestInstance.u_story = kpmgTest.u_story;//copy over the Story from the KPMG Test to the KPMG Test Instance
+			kpmgTestInstance.u_test = test.getUniqueValue();//copy over the source Test into the KPMG Test Instance
+			if(!this.metricCategory().isValid() &amp;&amp; !testWorkflow)
+			 kpmgTestInstance.setWorkflow(false);
+			kpmgTestInstance.insert();
+			return tm_Decorator.decorate(kpmgTestInstance);
+		}
+		else {
+			//source Test is NOT on the KPMG Story table, so create the Test Instance on the baseline Test Instance table
+			var testInstance = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+			testInstance.test = test.getValue('test');
+			testInstance.test_description = test.getValue('test_description');
+			testInstance.order = test.getValue('order');
+			testInstance.expected_result = test.getValue('expected_result');
+			testInstance.tm_test_case_instance = this.gr.getValue('sys_id');
+			if(!this.metricCategory().isValid() &amp;&amp; !testWorkflow)
+			 testInstance.setWorkflow(false);
+			testInstance.insert();
+			return tm_Decorator.decorate(testInstance);
+		}
+	},//end customization
+	
+	blockedTests: function() {
+		var tests = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		tests.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		tests.addQuery('execution_status', tm_TestManagement.BLOCKED);
+		tests.query();
+		return tests;
+	},
+	
+	blockedTestsCount: function() {
+		var blockedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.BLOCKED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			blockedTestsCount = count.getAggregate('COUNT');
+		return blockedTestsCount;
+	},
+	
+	failedTests: function() {
+		var tests = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		tests.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		tests.addQuery('execution_status', tm_TestManagement.FAILED);
+		tests.query();
+		return tests;
+	},
+	
+	failedTestsCount: function() {
+		var failedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.FAILED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			failedTestsCount = count.getAggregate('COUNT');
+		return failedTestsCount;
+	},
+	
+	passedTestsCount: function() {
+		var passedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.PASSED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			passedTestsCount = count.getAggregate('COUNT');
+		return passedTestsCount;
+	},
+	
+	unexecutedTestsCount: function() {
+		var unexecutedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.UNEXECUTED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			unexecutedTestsCount = count.getAggregate('COUNT');
+		return unexecutedTestsCount;
+	},
+	
+	totalTestsCount: function() {
+		var totalTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			totalTestsCount = count.getAggregate('COUNT');
+		return totalTestsCount;
+	},
+	
+	getTableName: function() {
+		return tm_TestManagement.TEST_CASE_INSTANCE;
+	},
+	
+	updateActualResult: function(message) {
+		// Dummy Method for this wrapper
+	},
+	
+	updateBlockedReason: function(message) {
+		this.setValue('blocked_reason', message);
+	},
+	
+	setExecutionStatus: function(state) {
+		this.setValue('execution_status', state);
+	},
+	
+	type: 'tm_TestCaseInstanceDecorator'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-10-04 16:47:21&lt;/sys_created_on&gt;&lt;sys_id&gt;474a55eadbe143007c7c771c8c96193a&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name&gt;tm_TestCaseInstanceDecorator&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_474a55eadbe143007c7c771c8c96193a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-10-05 20:56:15&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2007901477</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>6a88c444dbb203007c7c771c8c961963</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15eee5315300000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table/>
+<target_name>tm_TestCaseInstanceDecorator</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>36dc5732b9e10300aed73f57a3c25931</update_guid>
+<update_guid_history>36dc5732b9e10300aed73f57a3c25931:-2007901477,9ce32672b9610300b6d7e2c8a6e8ae88:-45177407,9325dabef221030017b97b604303eabd:-1191441112,65119e3e912103007084e1e03e2fa933:-1724251890,13d0963e232103003ad1a4c54e1ad58b:-734699026,9510563e862103009053e21c793ee9ef:370935009,7519427ae8210300a39beab76ead7990:1444117185,8d18023a7221030082a925b7d5021793:-169213407,9f36caf68c2103000dd01848f564498d:-372612197,2a450236f92103004609dc6ebfeeddcd:1654939064,34540a76d7210300902e992cf1eeaa81:-865808809,b65b317252210300b56ef9eea0a56ce2:529073924,861ace62ed65430033f88ac8dc218c22:-460391428,353a356a50254300613c881fa4952302:1023493274,0b4a55ea71e14300090ed3fbf838943c:-1964104089</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_tm_test_instance_test</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="test" table="tm_test_instance"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Test</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>test</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="String">string</internal_type><mandatory>true</mandatory><max_length>8000</max_length><name>tm_test_instance</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:07:15</sys_created_on><sys_id>7e21e3b8db2103007c7c771c8c961927</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="Test Management" source="com.snc.test_mgmt">ee21a3b8db2103007c7c771c8c961901</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_tm_test_instance_test</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-17 19:19:37</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>259646113</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>6e88c444dbb203007c7c771c8c961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15f2bc6ed370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test_instance</table>
+<target_name>Test.Test</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a4d930bed171030073f4fe928719089b</update_guid>
+<update_guid_history>a4d930bed171030073f4fe928719089b:259646113,e4d9f07e0a7103004e4db9d97ee654c2:-1804758890</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_1b94c9f0370121001a8326877e41f152</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;false&lt;/active&gt;&lt;api_name&gt;global.tm_TestCaseInstanceDecorator&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;tm_TestCaseInstanceDecorator&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var tm_TestCaseInstanceDecorator = Class.create();
+
+tm_TestCaseInstanceDecorator.prototype = Object.extendsObject(tm_BaseDecorator, {
+	testInstances: function() {
+		var testInstance = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		testInstance.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		testInstance.orderBy('order');
+		testInstance.query();
+		return testInstance;
+	},
+	
+	testPlan: function() {
+		var testPlan = new GlideRecord(tm_TestManagement.TEST_PLAN);
+		testPlan.get(this.getValue(tm_TestManagement.TEST_PLAN_FK));
+		return tm_Decorator.decorate(testPlan);
+	},
+	
+	metricCategory: function() {
+		if ( JSUtil.nil(this.getValue(tm_TestManagement.ASMT_METRIC_CATEGORY)) ) {
+			return { isValid: function() { return false; } };
+		}
+		else {
+			var gr = new GlideRecord(tm_TestManagement.ASMT_METRIC_CATEGORY);
+			gr.get(this.getValue(tm_TestManagement.ASMT_METRIC_CATEGORY));
+			return tm_Decorator.decorate(gr);
+		}
+	},
+	
+	clearBlockedReason: function() {
+		this.setValue('blocked_reason', "");
+		this.update();
+	},
+	
+	addTest: function(test,testWorkflow) {
+		var testInstance = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		testInstance.test = test.getValue('test');
+		testInstance.test_description = test.getValue('test_description');
+		testInstance.order = test.getValue('order');
+		testInstance.expected_result = test.getValue('expected_result');
+		testInstance.tm_test_case_instance = this.gr.getValue('sys_id');
+		if(!this.metricCategory().isValid() &amp;&amp; !testWorkflow)
+		 testInstance.setWorkflow(false);
+		testInstance.insert();
+		return tm_Decorator.decorate(testInstance);
+	},
+	
+	blockedTests: function() {
+		var tests = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		tests.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		tests.addQuery('execution_status', tm_TestManagement.BLOCKED);
+		tests.query();
+		return tests;
+	},
+	
+	blockedTestsCount: function() {
+		var blockedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.BLOCKED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			blockedTestsCount = count.getAggregate('COUNT');
+		return blockedTestsCount;
+	},
+	
+	failedTests: function() {
+		var tests = new GlideRecord(tm_TestManagement.TEST_INSTANCE);
+		tests.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		tests.addQuery('execution_status', tm_TestManagement.FAILED);
+		tests.query();
+		return tests;
+	},
+	
+	failedTestsCount: function() {
+		var failedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.FAILED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			failedTestsCount = count.getAggregate('COUNT');
+		return failedTestsCount;
+	},
+	
+	passedTestsCount: function() {
+		var passedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.PASSED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			passedTestsCount = count.getAggregate('COUNT');
+		return passedTestsCount;
+	},
+	
+	unexecutedTestsCount: function() {
+		var unexecutedTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addQuery('execution_status', tm_TestManagement.UNEXECUTED);
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			unexecutedTestsCount = count.getAggregate('COUNT');
+		return unexecutedTestsCount;
+	},
+	
+	totalTestsCount: function() {
+		var totalTestsCount = 0;
+		var count = new GlideAggregate(tm_TestManagement.TEST_INSTANCE);
+		count.addQuery(tm_TestManagement.TEST_CASE_INSTANCE_FK, this.gr.getValue(tm_TestManagement.SYS_ID));
+		count.addAggregate('COUNT');
+		count.query();
+		if ( count.next() )
+			totalTestsCount = count.getAggregate('COUNT');
+		return totalTestsCount;
+	},
+	
+	getTableName: function() {
+		return tm_TestManagement.TEST_CASE_INSTANCE;
+	},
+	
+	updateActualResult: function(message) {
+		// Dummy Method for this wrapper
+	},
+	
+	updateBlockedReason: function(message) {
+		this.setValue('blocked_reason', message);
+	},
+	
+	setExecutionStatus: function(state) {
+		this.setValue('execution_status', state);
+	},
+	
+	type: 'tm_TestCaseInstanceDecorator'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-05-30 07:04:56&lt;/sys_created_on&gt;&lt;sys_id&gt;1b94c9f0370121001a8326877e41f152&lt;/sys_id&gt;&lt;sys_mod_count&gt;86&lt;/sys_mod_count&gt;&lt;sys_name&gt;tm_TestCaseInstanceDecorator&lt;/sys_name&gt;&lt;sys_package display_value="Test Management" source="com.snc.test_mgmt"&gt;ee21a3b8db2103007c7c771c8c961901&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_1b94c9f0370121001a8326877e41f152&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-10-04 16:47:12&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1379293302</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>a688c444dbb203007c7c771c8c961963</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ee848b3430000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table/>
+<target_name>tm_TestCaseInstanceDecorator</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>6c4a1deaffe1430069dd736d01f3d796</update_guid>
+<update_guid_history>6c4a1deaffe1430069dd736d01f3d796:1379293302,2c4a19ea98e14300b91fdb6e3de798ef:-1964104089</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_tm_test_instance_sys_class_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="tm_test_instance"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Class</column_label><comments/><create_roles/><default_value>javascript:current.getTableName();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>sys_class_name</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="">sys_class_name</internal_type><mandatory>false</mandatory><max_length>80</max_length><name>tm_test_instance</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-10-04 18:30:31</sys_created_on><sys_id>12e1bda6db2543007c7c771c8c96199c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Class</sys_name><sys_package/><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_tm_test_instance_sys_class_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-04 18:30:31</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-316689822</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>aa88c444dbb203007c7c771c8c961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ee8a74d330000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test_instance</table>
+<target_name>Test.Class</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>9ee1bda629254300a03e1a6ea3c73ca1</update_guid>
+<update_guid_history>9ee1bda629254300a03e1a6ea3c73ca1:-316689822</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_c721e3b8db2103007c7c771c8c961949</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Test</label><live_feed_enabled>false</live_feed_enabled><name>tm_test</name><number_ref/><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:07:15</sys_created_on><sys_id>c721e3b8db2103007c7c771c8c961949</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="Test Management" source="com.snc.test_mgmt">ee21a3b8db2103007c7c771c8c961901</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_c721e3b8db2103007c7c771c8c961949</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-03 21:12:09</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1341883668</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>ae88c444dbb203007c7c771c8c961961</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ee414e8cc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test</table>
+<target_name>Test</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>485d8592c52d0300a581fe2a1aa72601</update_guid>
+<update_guid_history>485d8592c52d0300a581fe2a1aa72601:-1341883668,845d45926c2d0300c35db07d68cb4bfe:-497969503</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_tm_test_test</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="test" table="tm_test"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Test</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>test</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="String">string</internal_type><mandatory>true</mandatory><max_length>8000</max_length><name>tm_test</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:07:15</sys_created_on><sys_id>4321e3b8db2103007c7c771c8c961960</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="Test Management" source="com.snc.test_mgmt">ee21a3b8db2103007c7c771c8c961901</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_tm_test_test</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-17 19:40:32</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>2066124426</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>e288c444dbb203007c7c771c8c961963</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15f2bda113b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test</table>
+<target_name>Test.Test</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>769e7832c3b10300bf3cf105084c597b</update_guid>
+<update_guid_history>769e7832c3b10300bf3cf105084c597b:2066124426,3e9e783214b10300aed5e78a778aeb75:-1938427416</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_tm_test_instance_number</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="number" table="tm_test_instance"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Number</column_label><comments/><create_roles/><default_value>javascript:getNextObjNumberPadded();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value display_value="Get Next Padded Number">fdcb83a85f220100a9ad2572f2b4773c</dynamic_default_value><dynamic_ref_qual/><element>number</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>tm_test_instance</name><next_element/><primary>false</primary><read_only>true</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:07:15</sys_created_on><sys_id>ba21e3b8db2103007c7c771c8c961924</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Number</sys_name><sys_package display_value="Test Management" source="com.snc.test_mgmt">ee21a3b8db2103007c7c771c8c961901</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_tm_test_instance_number</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-17 19:19:37</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>true</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>686716393</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>e688c444dbb203007c7c771c8c961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15f2bc6ed4e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test_instance</table>
+<target_name>Test.Number</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>68d930be697103008d33d0a51454269c</update_guid>
+<update_guid_history>68d930be697103008d33d0a51454269c:686716393,14d9f07ea9710300d5963d1e26b51abc:1230460713</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_ba21e3b8db2103007c7c771c8c96191e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Test</label><live_feed_enabled>false</live_feed_enabled><name>tm_test_instance</name><number_ref/><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>system</sys_created_by><sys_created_on>2017-09-29 16:07:15</sys_created_on><sys_id>ba21e3b8db2103007c7c771c8c96191e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="Test Management" source="com.snc.test_mgmt">ee21a3b8db2103007c7c771c8c961901</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_ba21e3b8db2103007c7c771c8c96191e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-10-04 18:30:31</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>2096381912</payload_hash>
+<remote_update_set display_value="KPMG DevOps (global scope)">66884044dbb203007c7c771c8c961967</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-27 19:43:49</sys_created_on>
+<sys_id>ea88c444dbb203007c7c771c8c961961</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>15ee8a74c820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-27 19:43:49</sys_updated_on>
+<table>tm_test_instance</table>
+<target_name>Test</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>56e1bda6752543004c5cafd4f389b39a</update_guid>
+<update_guid_history>56e1bda6752543004c5cafd4f389b39a:2096381912,dee179ea59e143006215897f8344cef3:-177644810</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
